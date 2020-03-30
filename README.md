@@ -1,6 +1,6 @@
-<!-- retake mod1 first assignment
+retake mod1 first assignment
 gem files 
 rake files
 create migration tables 
 migrate 
-establish relationships in ruby  -->
+establish relationships in ruby 
